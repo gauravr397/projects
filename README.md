@@ -12,3 +12,4 @@ unzip.py
 
 snake.py
 
+cpuinfo.py
